@@ -1,1 +1,3 @@
 # rentManager
+App to manage Rent of Flats and Houses
+from contract to ... 
